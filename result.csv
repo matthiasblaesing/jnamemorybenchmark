@@ -1,0 +1,6 @@
+"Benchmark","Mode","Threads","Samples","Score","Score Error (99,9%)","Unit"
+"eu.doppel_helix.dev.jna.benchmarkmemory.MemoryBenchmark.allocateWithMemory","thrpt",4,25,"1231814,614716","109362,973487","ops/s"
+"eu.doppel_helix.dev.jna.benchmarkmemory.MemoryBenchmark.allocateWithMemory2","thrpt",4,25,"926192,069017","94586,318779","ops/s"
+"eu.doppel_helix.dev.jna.benchmarkmemory.MemoryBenchmark.allocateWithMemory3","thrpt",4,25,"1184987,524322","50791,888379","ops/s"
+"eu.doppel_helix.dev.jna.benchmarkmemory.MemoryBenchmark.allocateWithMemory4","thrpt",4,25,"1187076,022115","91644,314653","ops/s"
+"eu.doppel_helix.dev.jna.benchmarkmemory.MemoryBenchmark.allocateWithMemory5","thrpt",4,25,"2262093,522131","56417,696075","ops/s"
